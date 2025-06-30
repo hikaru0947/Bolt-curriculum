@@ -51,9 +51,9 @@ body {
   text-align: center;
 }
 
-.main-title {
+.main-inner {
+  padding: 250px 0;
   text-align: center;
-  margin: 0 auto;
 }
 
 .main-sample__title {
@@ -61,13 +61,11 @@ body {
   font-weight: 700;
   color: #74cfae;
   margin-bottom: 20px;
-  padding-top: 250px;
 }
 
 .main-sample__subtitle {
   font-size: 30px;
   color: #c0c0c0;
-  padding-bottom: 250px;
 }
 
 .section {
