@@ -293,14 +293,16 @@ body {
     padding: 0 10px;
     box-sizing: border-box;
   }
-
-  .section-text__title {
+  
+  .section-font {
     font-size: 20px;
-    margin-bottom: 20px;
   }
 
+  .section-text__title {
+    margin-bottom: 20px;
+  }
+  
   .section-text__description {
-    font-size: 20px;
     padding-bottom: 25px;
   }
 
@@ -363,14 +365,16 @@ body {
     text-align: center;
     box-sizing: border-box;
   }
+  
+  .section-font {
+    font-size: 20px;
+  }
 
   .section-text__title {
-    font-size: 20px;
     margin-bottom: 20px;
   }
 
   .section-text__description {
-    font-size: 16px;
     padding-bottom: 25px;
   }
 
